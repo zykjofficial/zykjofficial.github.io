@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>卓越科技的Blog</title>
+  <icon>https://blog.zykjofficial.top/img/favicon.ico</icon>
+  <subtitle>卓越人生、只为科技。</subtitle>
+  <link href="https://blog.zykjofficial.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.zykjofficial.top/"/>
+  <updated>2020-08-24T08:34:24.000Z</updated>
+  <id>https://blog.zykjofficial.top/</id>
+  
+  <author>
+    <name>卓越科技-</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Websocket学习</title>
+    <link href="https://blog.zykjofficial.top/posts/bbacf423/"/>
+    <id>https://blog.zykjofficial.top/posts/bbacf423/</id>
+    <published>2020-08-24T08:34:24.000Z</published>
+    <updated>2020-08-24T08:34:24.000Z</updated>
+    
+    
+    <summary type="html">WebSocket是一种在单个TCP连接上进行全双工通信的协议。WebSocket通信协议于2011年被IETF定为标准RFC 6455，并由RFC7936补充规范。WebSocket API也被W3C定为标准。</summary>
+    
+    
+    
+    <category term="网络通信" scheme="https://blog.zykjofficial.top/categories/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/"/>
+    
+    <category term="Websocket" scheme="https://blog.zykjofficial.top/categories/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/Websocket/"/>
+    
+    
+    <category term="Websocket" scheme="https://blog.zykjofficial.top/tags/Websocket/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mongoose学习</title>
+    <link href="https://blog.zykjofficial.top/posts/59470b8/"/>
+    <id>https://blog.zykjofficial.top/posts/59470b8/</id>
+    <published>2020-08-23T01:18:03.000Z</published>
+    <updated>2020-08-23T01:18:03.000Z</updated>
+    
+    
+    <summary type="html">Mongoose是在node.js异步环境下对mongodb进行便捷操作的对象模型工具</summary>
+    
+    
+    
+    <category term="数据库学习" scheme="https://blog.zykjofficial.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="MongoDB" scheme="https://blog.zykjofficial.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/MongoDB/"/>
+    
+    
+    <category term="MongoDB" scheme="https://blog.zykjofficial.top/tags/MongoDB/"/>
+    
+    <category term="Mongoose" scheme="https://blog.zykjofficial.top/tags/Mongoose/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MongoDB学习</title>
+    <link href="https://blog.zykjofficial.top/posts/3b691274/"/>
+    <id>https://blog.zykjofficial.top/posts/3b691274/</id>
+    <published>2020-08-21T01:49:40.000Z</published>
+    <updated>2020-08-21T01:49:40.000Z</updated>
+    
+    
+    <summary type="html">MongoDB是一个基于分布式文件存储的数据库。由C++语言编写。旨在为WEB应用提供可扩展的高性能数据存储解决方案。</summary>
+    
+    
+    
+    <category term="数据库学习" scheme="https://blog.zykjofficial.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="MongoDB" scheme="https://blog.zykjofficial.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/MongoDB/"/>
+    
+    
+    <category term="MongoDB" scheme="https://blog.zykjofficial.top/tags/MongoDB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Github Actions 自动部署博客</title>
+    <link href="https://blog.zykjofficial.top/posts/ea8e8e59/"/>
+    <id>https://blog.zykjofficial.top/posts/ea8e8e59/</id>
+    <published>2020-08-20T13:25:15.000Z</published>
+    <updated>2020-08-20T13:25:15.000Z</updated>
+    
+    
+    <summary type="html">使用Github Actions 部署博客、方便快捷</summary>
+    
+    
+    
+    <category term="Hexo教程" scheme="https://blog.zykjofficial.top/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="部署教程" scheme="https://blog.zykjofficial.top/categories/Hexo%E6%95%99%E7%A8%8B/%E9%83%A8%E7%BD%B2%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.zykjofficial.top/tags/Hexo/"/>
+    
+    <category term="自动部署" scheme="https://blog.zykjofficial.top/tags/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flex 与 Grid 学习</title>
+    <link href="https://blog.zykjofficial.top/posts/27858d2d/"/>
+    <id>https://blog.zykjofficial.top/posts/27858d2d/</id>
+    <published>2020-08-16T08:32:51.000Z</published>
+    <updated>2020-08-31T12:07:37.882Z</updated>
+    
+    
+    <summary type="html">学习一下Flex和Grid布局</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="CSS" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/CSS/"/>
+    
+    
+    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="CSS" scheme="https://blog.zykjofficial.top/tags/CSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nuxt.js 学习</title>
+    <link href="https://blog.zykjofficial.top/posts/e400c46/"/>
+    <id>https://blog.zykjofficial.top/posts/e400c46/</id>
+    <published>2020-08-12T14:25:24.000Z</published>
+    <updated>2020-08-12T14:25:24.000Z</updated>
+    
+    
+    <summary type="html">Nuxt.js 是一个基于 Vue.js 的通用应用框架。通过对客户端/服务端基础架构的抽象组织，Nuxt.js 主要关注的是应用的 UI 渲染。</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    
+    
+    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/tags/Vue/"/>
+    
+    <category term="Nuxt.js" scheme="https://blog.zykjofficial.top/tags/Nuxt-js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue响应式原理解读</title>
+    <link href="https://blog.zykjofficial.top/posts/a9e8a85d/"/>
+    <id>https://blog.zykjofficial.top/posts/a9e8a85d/</id>
+    <published>2020-08-05T12:20:13.000Z</published>
+    <updated>2020-08-08T15:23:13.000Z</updated>
+    
+    
+    <summary type="html">学习了Vue的基础知识、了解一下Vue的响应式原理吧</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue仿蘑菇街项目</title>
+    <link href="https://blog.zykjofficial.top/posts/42ed6352/"/>
+    <id>https://blog.zykjofficial.top/posts/42ed6352/</id>
+    <published>2020-08-04T09:28:23.000Z</published>
+    <updated>2020-08-04T09:28:23.000Z</updated>
+    
+    
+    <summary type="html">我们学习了Vue相关的知识、现在我们通过一个项目来巩固知识</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    
+    
+    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/tags/Vue/"/>
+    
+    <category term="Vue-Router" scheme="https://blog.zykjofficial.top/tags/Vue-Router/"/>
+    
+    <category term="Vuex" scheme="https://blog.zykjofficial.top/tags/Vuex/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Android学习</title>
+    <link href="https://blog.zykjofficial.top/posts/5d018fb1/"/>
+    <id>https://blog.zykjofficial.top/posts/5d018fb1/</id>
+    <published>2020-08-01T13:54:21.000Z</published>
+    <updated>2020-08-01T13:54:21.000Z</updated>
+    
+    
+    <summary type="html">大二下 上课学习的笔记、总结一下、只是基础。</summary>
+    
+    
+    
+    <category term="Java" scheme="https://blog.zykjofficial.top/categories/Java/"/>
+    
+    <category term="Android" scheme="https://blog.zykjofficial.top/categories/Java/Android/"/>
+    
+    
+    <category term="Android" scheme="https://blog.zykjofficial.top/tags/Android/"/>
+    
+    <category term="学习" scheme="https://blog.zykjofficial.top/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>那些年我看过的动漫</title>
+    <link href="https://blog.zykjofficial.top/posts/4e1c7631/"/>
+    <id>https://blog.zykjofficial.top/posts/4e1c7631/</id>
+    <published>2020-07-28T12:27:14.000Z</published>
+    <updated>2020-07-28T12:27:14.000Z</updated>
+    
+    
+    <summary type="html">这里记录这我看过的动漫、满满的回忆、持续更新中</summary>
+    
+    
+    
+    <category term="动漫" scheme="https://blog.zykjofficial.top/categories/%E5%8A%A8%E6%BC%AB/"/>
+    
+    
+    <category term="动漫" scheme="https://blog.zykjofficial.top/tags/%E5%8A%A8%E6%BC%AB/"/>
+    
+    <category term="二次元" scheme="https://blog.zykjofficial.top/tags/%E4%BA%8C%E6%AC%A1%E5%85%83/"/>
+    
+    <category term="回忆" scheme="https://blog.zykjofficial.top/tags/%E5%9B%9E%E5%BF%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ElementUi学习(下)</title>
+    <link href="https://blog.zykjofficial.top/posts/89755edc/"/>
+    <id>https://blog.zykjofficial.top/posts/89755edc/</id>
+    <published>2020-07-18T13:48:26.000Z</published>
+    <updated>2020-07-18T13:48:26.000Z</updated>
+    
+    
+    <summary type="html">通过简单的小项目、学习一下ElementUi与SpringBoot</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="ElementUi" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/ElementUi/"/>
+    
+    
+    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/tags/Vue/"/>
+    
+    <category term="ElementUi" scheme="https://blog.zykjofficial.top/tags/ElementUi/"/>
+    
+    <category term="SpringBoot" scheme="https://blog.zykjofficial.top/tags/SpringBoot/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ElementUi学习(上)</title>
+    <link href="https://blog.zykjofficial.top/posts/906e6f9d/"/>
+    <id>https://blog.zykjofficial.top/posts/906e6f9d/</id>
+    <published>2020-07-17T13:26:58.000Z</published>
+    <updated>2020-07-18T13:26:58.000Z</updated>
+    
+    
+    <summary type="html">网站快速成型工具、对于我这样比较懒的人、需要看视频记笔记</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="ElementUi" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/ElementUi/"/>
+    
+    
+    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/tags/Vue/"/>
+    
+    <category term="ElementUi" scheme="https://blog.zykjofficial.top/tags/ElementUi/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Axios学习</title>
+    <link href="https://blog.zykjofficial.top/posts/5650a45b/"/>
+    <id>https://blog.zykjofficial.top/posts/5650a45b/</id>
+    <published>2020-07-12T02:03:48.000Z</published>
+    <updated>2020-07-12T02:03:48.000Z</updated>
+    
+    
+    <summary type="html">Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Axios" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Axios/"/>
+    
+    
+    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Axios" scheme="https://blog.zykjofficial.top/tags/Axios/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vuex学习</title>
+    <link href="https://blog.zykjofficial.top/posts/413c71da/"/>
+    <id>https://blog.zykjofficial.top/posts/413c71da/</id>
+    <published>2020-07-11T02:59:51.000Z</published>
+    <updated>2020-07-11T02:59:51.000Z</updated>
+    
+    
+    <summary type="html">Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。它采用集中式存储管理应用的所有组件的状态，并以相应的规则保证状态以一种可预测的方式发生变化。</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    
+    
+    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何使用CSS或者Pr做出新拟态效果</title>
+    <link href="https://blog.zykjofficial.top/posts/581025ac/"/>
+    <id>https://blog.zykjofficial.top/posts/581025ac/</id>
+    <published>2020-07-08T13:02:16.000Z</published>
+    <updated>2020-07-08T13:02:16.000Z</updated>
+    
+    
+    <summary type="html">好久之前在B站刷视频看到了一个使用CSS写新拟态效果的、最近又看到用Pr的、记笔记。</summary>
+    
+    
+    
+    <category term="教程" scheme="https://blog.zykjofficial.top/categories/%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="CSS" scheme="https://blog.zykjofficial.top/tags/CSS/"/>
+    
+    <category term="Pr" scheme="https://blog.zykjofficial.top/tags/Pr/"/>
+    
+    <category term="教程" scheme="https://blog.zykjofficial.top/tags/%E6%95%99%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nodejs学习</title>
+    <link href="https://blog.zykjofficial.top/posts/d8fc8ff1/"/>
+    <id>https://blog.zykjofficial.top/posts/d8fc8ff1/</id>
+    <published>2020-07-06T02:53:26.000Z</published>
+    <updated>2020-07-06T02:53:26.000Z</updated>
+    
+    
+    <summary type="html">Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。 Node.js 使用了一个事件驱动、非阻塞式 I/O 的模型。</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Nodejs" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Nodejs/"/>
+    
+    
+    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Nodejs" scheme="https://blog.zykjofficial.top/tags/Nodejs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>AJAX学习</title>
+    <link href="https://blog.zykjofficial.top/posts/c747b178/"/>
+    <id>https://blog.zykjofficial.top/posts/c747b178/</id>
+    <published>2020-07-04T13:16:11.000Z</published>
+    <updated>2020-07-04T13:16:11.000Z</updated>
+    
+    
+    <summary type="html">Ajax是指一种创建交互式、快速动态网页应用的网页开发技术，无需重新加载整个网页的情况下，能够更新部分网页的技术。</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="AJAX" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/AJAX/"/>
+    
+    
+    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="AJAX" scheme="https://blog.zykjofficial.top/tags/AJAX/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue-router学习</title>
+    <link href="https://blog.zykjofficial.top/posts/ed3da/"/>
+    <id>https://blog.zykjofficial.top/posts/ed3da/</id>
+    <published>2020-07-01T12:24:54.000Z</published>
+    <updated>2020-07-01T12:24:54.000Z</updated>
+    
+    
+    <summary type="html">Vue Router 是 Vue.js 官方的路由管理器。它和 Vue.js 的核心深度集成，让构建单页面应用变得易如反掌。</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    
+    
+    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Vue-CLI学习</title>
+    <link href="https://blog.zykjofficial.top/posts/22686bb0/"/>
+    <id>https://blog.zykjofficial.top/posts/22686bb0/</id>
+    <published>2020-06-27T14:26:37.000Z</published>
+    <updated>2020-06-27T14:26:37.000Z</updated>
+    
+    
+    <summary type="html">学了Vue的基础、开始使用脚手架了。</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    
+    
+    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>学习过程中遇到的软件问题</title>
+    <link href="https://blog.zykjofficial.top/posts/efc9a028/"/>
+    <id>https://blog.zykjofficial.top/posts/efc9a028/</id>
+    <published>2020-06-15T15:20:47.000Z</published>
+    <updated>2020-08-01T15:20:47.000Z</updated>
+    
+    
+    <summary type="html">总结遇到的软件问题、以及解决办法</summary>
+    
+    
+    
+    <category term="电脑教程" scheme="https://blog.zykjofficial.top/categories/%E7%94%B5%E8%84%91%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="电脑" scheme="https://blog.zykjofficial.top/tags/%E7%94%B5%E8%84%91/"/>
+    
+    <category term="问题" scheme="https://blog.zykjofficial.top/tags/%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+</feed>

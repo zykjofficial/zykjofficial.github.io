@@ -6,7 +6,7 @@
   <link href="https://blog.zykjofficial.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zykjofficial.top/"/>
-  <updated>2020-09-02T01:08:40.000Z</updated>
+  <updated>2020-09-07T00:32:26.000Z</updated>
   <id>https://blog.zykjofficial.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python学习</title>
+    <link href="https://blog.zykjofficial.top/posts/69742e4c/"/>
+    <id>https://blog.zykjofficial.top/posts/69742e4c/</id>
+    <published>2020-09-07T00:32:26.000Z</published>
+    <updated>2020-09-07T00:32:26.000Z</updated>
+    
+    
+    <summary type="html">总结一下自己以前学习Python的笔记</summary>
+    
+    
+    
+    <category term="Python" scheme="https://blog.zykjofficial.top/categories/Python/"/>
+    
+    
+    <category term="Python" scheme="https://blog.zykjofficial.top/tags/Python/"/>
+    
+  </entry>
   
   <entry>
     <title>LeetCode算法题学习</title>
@@ -132,7 +151,7 @@
     <link href="https://blog.zykjofficial.top/posts/27858d2d/"/>
     <id>https://blog.zykjofficial.top/posts/27858d2d/</id>
     <published>2020-08-16T08:32:51.000Z</published>
-    <updated>2020-09-05T13:21:35.828Z</updated>
+    <updated>2020-09-10T12:59:28.924Z</updated>
     
     
     <summary type="html">学习一下Flex和Grid布局</summary>
@@ -445,29 +464,6 @@
     
     
     <summary type="html">Vue Router 是 Vue.js 官方的路由管理器。它和 Vue.js 的核心深度集成，让构建单页面应用变得易如反掌。</summary>
-    
-    
-    
-    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Vue" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
-    
-    
-    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="Vue" scheme="https://blog.zykjofficial.top/tags/Vue/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Vue-CLI学习</title>
-    <link href="https://blog.zykjofficial.top/posts/22686bb0/"/>
-    <id>https://blog.zykjofficial.top/posts/22686bb0/</id>
-    <published>2020-06-27T14:26:37.000Z</published>
-    <updated>2020-06-27T14:26:37.000Z</updated>
-    
-    
-    <summary type="html">学了Vue的基础、开始使用脚手架了。</summary>
     
     
     

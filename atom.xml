@@ -6,7 +6,7 @@
   <link href="https://blog.zykjofficial.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zykjofficial.top/"/>
-  <updated>2020-09-17T12:25:26.000Z</updated>
+  <updated>2020-09-21T08:17:59.000Z</updated>
   <id>https://blog.zykjofficial.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于Butterfly主题添加Artalk评论系统</title>
+    <link href="https://blog.zykjofficial.top/posts/93afb348/"/>
+    <id>https://blog.zykjofficial.top/posts/93afb348/</id>
+    <published>2020-09-21T08:17:59.000Z</published>
+    <updated>2020-09-21T08:17:59.000Z</updated>
+    
+    
+    <summary type="html">本篇文章介绍Artalk的安装和配置以及如何整合到Butterfly主题中</summary>
+    
+    
+    
+    <category term="Hexo教程" scheme="https://blog.zykjofficial.top/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Butterfly" scheme="https://blog.zykjofficial.top/categories/Hexo%E6%95%99%E7%A8%8B/Butterfly/"/>
+    
+    
+    <category term="Artalk" scheme="https://blog.zykjofficial.top/tags/Artalk/"/>
+    
+    <category term="博客" scheme="https://blog.zykjofficial.top/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="评论" scheme="https://blog.zykjofficial.top/tags/%E8%AF%84%E8%AE%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>Python学习</title>
@@ -153,7 +178,7 @@
     <link href="https://blog.zykjofficial.top/posts/27858d2d/"/>
     <id>https://blog.zykjofficial.top/posts/27858d2d/</id>
     <published>2020-08-16T08:32:51.000Z</published>
-    <updated>2020-09-21T01:37:02.325Z</updated>
+    <updated>2020-09-21T08:55:54.739Z</updated>
     
     
     <summary type="html">学习一下Flex和Grid布局</summary>
@@ -454,29 +479,6 @@
     <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
     
     <category term="AJAX" scheme="https://blog.zykjofficial.top/tags/AJAX/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Vue-router学习</title>
-    <link href="https://blog.zykjofficial.top/posts/ed3da/"/>
-    <id>https://blog.zykjofficial.top/posts/ed3da/</id>
-    <published>2020-07-01T12:24:54.000Z</published>
-    <updated>2020-07-01T12:24:54.000Z</updated>
-    
-    
-    <summary type="html">Vue Router 是 Vue.js 官方的路由管理器。它和 Vue.js 的核心深度集成，让构建单页面应用变得易如反掌。</summary>
-    
-    
-    
-    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Vue" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
-    
-    
-    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="Vue" scheme="https://blog.zykjofficial.top/tags/Vue/"/>
     
   </entry>
   

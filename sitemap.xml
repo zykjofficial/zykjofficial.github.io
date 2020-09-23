@@ -592,13 +592,6 @@
   </url>
   
   <url>
-    <loc>https://blog.zykjofficial.top/tags/AJAX/</loc>
-    <lastmod>2020-09-23</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.zykjofficial.top/tags/%E5%8A%A8%E6%BC%AB/</loc>
     <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
@@ -621,6 +614,13 @@
   
   <url>
     <loc>https://blog.zykjofficial.top/tags/Nuxt-js/</loc>
+    <lastmod>2020-09-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zykjofficial.top/tags/AJAX/</loc>
     <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -874,14 +874,14 @@
   </url>
   
   <url>
-    <loc>https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/AJAX/</loc>
+    <loc>https://blog.zykjofficial.top/categories/%E5%8A%A8%E6%BC%AB/</loc>
     <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.zykjofficial.top/categories/%E5%8A%A8%E6%BC%AB/</loc>
+    <loc>https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/AJAX/</loc>
     <lastmod>2020-09-23</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

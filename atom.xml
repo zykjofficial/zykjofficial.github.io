@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>卓越科技的Blog</title>
-  <icon>https://blog.zykjofficial.top/img/favicon.ico</icon>
+  <icon>https://cdn.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/favicon.ico</icon>
   <subtitle>卓越人生、只为科技。</subtitle>
   <link href="https://blog.zykjofficial.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zykjofficial.top/"/>
-  <updated>2020-09-21T08:17:59.000Z</updated>
+  <updated>2020-09-29T08:17:59.000Z</updated>
   <id>https://blog.zykjofficial.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.zykjofficial.top/posts/93afb348/"/>
     <id>https://blog.zykjofficial.top/posts/93afb348/</id>
     <published>2020-09-21T08:17:59.000Z</published>
-    <updated>2020-09-21T08:17:59.000Z</updated>
+    <updated>2020-09-29T08:17:59.000Z</updated>
     
     
     <summary type="html">本篇文章介绍Artalk的安装和配置以及如何整合到Butterfly主题中</summary>
@@ -178,7 +178,7 @@
     <link href="https://blog.zykjofficial.top/posts/27858d2d/"/>
     <id>https://blog.zykjofficial.top/posts/27858d2d/</id>
     <published>2020-08-16T08:32:51.000Z</published>
-    <updated>2020-09-28T15:32:09.079Z</updated>
+    <updated>2020-09-29T15:19:24.287Z</updated>
     
     
     <summary type="html">学习一下Flex和Grid布局</summary>

@@ -6,7 +6,7 @@
   <link href="https://blog.zykjofficial.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zykjofficial.top/"/>
-  <updated>2020-10-09T08:17:59.000Z</updated>
+  <updated>2020-10-21T01:37:56.000Z</updated>
   <id>https://blog.zykjofficial.top/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Vue3学习</title>
+    <link href="https://blog.zykjofficial.top/posts/7305059/"/>
+    <id>https://blog.zykjofficial.top/posts/7305059/</id>
+    <published>2020-10-21T01:37:56.000Z</published>
+    <updated>2020-10-21T01:37:56.000Z</updated>
+    
+    
+    <summary type="html">Vuejs 3.0 在北京时间2020年9月19日凌晨，终于发布了 3.0 版本，代号：One Piece</summary>
+    
+    
+    
+    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    
+    
+    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+    <category term="Vue" scheme="https://blog.zykjofficial.top/tags/Vue/"/>
+    
+  </entry>
+  
+  <entry>
     <title>基于Butterfly主题添加Artalk评论系统</title>
     <link href="https://blog.zykjofficial.top/posts/93afb348/"/>
     <id>https://blog.zykjofficial.top/posts/93afb348/</id>
     <published>2020-09-21T08:17:59.000Z</published>
-    <updated>2020-10-09T08:17:59.000Z</updated>
+    <updated>2020-10-15T08:17:59.000Z</updated>
     
     
     <summary type="html">本篇文章介绍Artalk的安装和配置以及如何整合到Butterfly主题中</summary>
@@ -178,7 +201,7 @@
     <link href="https://blog.zykjofficial.top/posts/27858d2d/"/>
     <id>https://blog.zykjofficial.top/posts/27858d2d/</id>
     <published>2020-08-16T08:32:51.000Z</published>
-    <updated>2020-10-11T13:46:02.424Z</updated>
+    <updated>2020-10-21T14:41:16.249Z</updated>
     
     
     <summary type="html">学习一下Flex和Grid布局</summary>
@@ -456,29 +479,6 @@
     <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
     
     <category term="Nodejs" scheme="https://blog.zykjofficial.top/tags/Nodejs/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>AJAX学习</title>
-    <link href="https://blog.zykjofficial.top/posts/c747b178/"/>
-    <id>https://blog.zykjofficial.top/posts/c747b178/</id>
-    <published>2020-07-04T13:16:11.000Z</published>
-    <updated>2020-07-04T13:16:11.000Z</updated>
-    
-    
-    <summary type="html">Ajax是指一种创建交互式、快速动态网页应用的网页开发技术，无需重新加载整个网页的情况下，能够更新部分网页的技术。</summary>
-    
-    
-    
-    <category term="Web教程" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="AJAX" scheme="https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/AJAX/"/>
-    
-    
-    <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="AJAX" scheme="https://blog.zykjofficial.top/tags/AJAX/"/>
     
   </entry>
   

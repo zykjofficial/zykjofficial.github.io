@@ -51,14 +51,14 @@
   </url>
   
   <url>
-    <loc>https://blog.zykjofficial.top/about/index.html</loc>
+    <loc>https://blog.zykjofficial.top/bangumis/index.html</loc>
     
     <lastmod>2020-10-21</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.zykjofficial.top/bangumis/index.html</loc>
+    <loc>https://blog.zykjofficial.top/about/index.html</loc>
     
     <lastmod>2020-10-21</lastmod>
     
@@ -578,13 +578,6 @@
   </url>
   
   <url>
-    <loc>https://blog.zykjofficial.top/tags/Axios/</loc>
-    <lastmod>2020-10-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.zykjofficial.top/tags/Html/</loc>
     <lastmod>2020-10-21</lastmod>
     <changefreq>daily</changefreq>
@@ -600,6 +593,13 @@
   
   <url>
     <loc>https://blog.zykjofficial.top/tags/AJAX/</loc>
+    <lastmod>2020-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zykjofficial.top/tags/Axios/</loc>
     <lastmod>2020-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -669,6 +669,13 @@
   </url>
   
   <url>
+    <loc>https://blog.zykjofficial.top/tags/%E7%BE%8E%E5%8C%96/</loc>
+    <lastmod>2020-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.zykjofficial.top/tags/ElementUi/</loc>
     <lastmod>2020-10-21</lastmod>
     <changefreq>daily</changefreq>
@@ -677,13 +684,6 @@
   
   <url>
     <loc>https://blog.zykjofficial.top/tags/SpringBoot/</loc>
-    <lastmod>2020-10-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zykjofficial.top/tags/%E7%BE%8E%E5%8C%96/</loc>
     <lastmod>2020-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -839,21 +839,7 @@
   </url>
   
   <url>
-    <loc>https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Axios/</loc>
-    <lastmod>2020-10-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Html/</loc>
-    <lastmod>2020-10-21</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.zykjofficial.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/MongoDB/</loc>
     <lastmod>2020-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -867,7 +853,21 @@
   </url>
   
   <url>
+    <loc>https://blog.zykjofficial.top/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/MongoDB/</loc>
+    <lastmod>2020-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/AJAX/</loc>
+    <lastmod>2020-10-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/Axios/</loc>
     <lastmod>2020-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -930,14 +930,14 @@
   </url>
   
   <url>
-    <loc>https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/ElementUi/</loc>
+    <loc>https://blog.zykjofficial.top/categories/Hexo%E6%95%99%E7%A8%8B/%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BE%8E%E5%8C%96/</loc>
     <lastmod>2020-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.zykjofficial.top/categories/Hexo%E6%95%99%E7%A8%8B/%E6%90%AD%E5%BB%BA%E4%B8%8E%E7%BE%8E%E5%8C%96/</loc>
+    <loc>https://blog.zykjofficial.top/categories/Web%E6%95%99%E7%A8%8B/ElementUi/</loc>
     <lastmod>2020-10-21</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

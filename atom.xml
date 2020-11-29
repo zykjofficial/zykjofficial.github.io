@@ -6,7 +6,7 @@
   <link href="https://blog.zykjofficial.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zykjofficial.top/"/>
-  <updated>2020-11-14T13:43:00.000Z</updated>
+  <updated>2020-11-29T08:26:24.000Z</updated>
   <id>https://blog.zykjofficial.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>如何优化博客</title>
+    <link href="https://blog.zykjofficial.top/posts/7cfb88dd/"/>
+    <id>https://blog.zykjofficial.top/posts/7cfb88dd/</id>
+    <published>2020-11-29T08:26:24.000Z</published>
+    <updated>2020-11-29T08:26:24.000Z</updated>
+    
+    
+    <summary type="html">本篇文章介绍了我是如何优化我自己的博客的，希望给大家一些帮助。</summary>
+    
+    
+    
+    <category term="Hexo教程" scheme="https://blog.zykjofficial.top/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+    <category term="优化" scheme="https://blog.zykjofficial.top/categories/Hexo%E6%95%99%E7%A8%8B/%E4%BC%98%E5%8C%96/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.zykjofficial.top/tags/Hexo/"/>
+    
+    <category term="博客" scheme="https://blog.zykjofficial.top/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="优化" scheme="https://blog.zykjofficial.top/tags/%E4%BC%98%E5%8C%96/"/>
+    
+  </entry>
   
   <entry>
     <title>记一次安装黑苹果</title>
@@ -222,7 +247,7 @@
     <link href="https://blog.zykjofficial.top/posts/27858d2d/"/>
     <id>https://blog.zykjofficial.top/posts/27858d2d/</id>
     <published>2020-08-16T08:32:51.000Z</published>
-    <updated>2020-11-26T07:51:06.373Z</updated>
+    <updated>2020-11-29T12:31:05.024Z</updated>
     
     
     <summary type="html">学习一下Flex和Grid布局</summary>
@@ -454,29 +479,6 @@
     <category term="前端" scheme="https://blog.zykjofficial.top/tags/%E5%89%8D%E7%AB%AF/"/>
     
     <category term="Vue" scheme="https://blog.zykjofficial.top/tags/Vue/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何使用CSS或者Pr做出新拟态效果</title>
-    <link href="https://blog.zykjofficial.top/posts/581025ac/"/>
-    <id>https://blog.zykjofficial.top/posts/581025ac/</id>
-    <published>2020-07-08T13:02:16.000Z</published>
-    <updated>2020-07-08T13:02:16.000Z</updated>
-    
-    
-    <summary type="html">好久之前在B站刷视频看到了一个使用CSS写新拟态效果的、最近又看到用Pr的、记笔记。</summary>
-    
-    
-    
-    <category term="教程" scheme="https://blog.zykjofficial.top/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="CSS" scheme="https://blog.zykjofficial.top/tags/CSS/"/>
-    
-    <category term="Pr" scheme="https://blog.zykjofficial.top/tags/Pr/"/>
-    
-    <category term="教程" scheme="https://blog.zykjofficial.top/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   

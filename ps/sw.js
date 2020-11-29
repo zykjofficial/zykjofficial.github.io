@@ -1,1 +1,1 @@
-self.addEventListener("fetch",(function(e){}));
+"use strict";self.addEventListener("fetch",function(e){});

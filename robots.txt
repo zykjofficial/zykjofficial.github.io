@@ -8,8 +8,8 @@ Disallow: /css/
 Disallow: /*.js
 Disallow: /*.css
 
-Sitemap: https://blog.zykjofficial.top/sitemap.xml
-Sitemap: https://blog.zykjofficial.top/baidusitemap.xml
+Sitemap: https://blog.imzykj.cn/sitemap.xml
+Sitemap: https://blog.imzykj.cn/baidusitemap.xml
 
 Sitemap: https://zykj.js.org/sitemap.xml
 Sitemap: https://zykj.js.org/baidusitemap.xml
@@ -22,9 +22,3 @@ Sitemap: https://zykjofficial.gitee.io/baidusitemap.xml
 
 Sitemap: https://zykj.now.sh/sitemap.xml
 Sitemap: https://zykj.now.sh/baidusitemap.xml
-
-Sitemap: https://zykj.netlify.app/sitemap.xml
-Sitemap: https://zykj.netlify.app/baidusitemap.xml
-
-Sitemap: https://zykjoffciail.imfast.io/sitemap.xml
-Sitemap: https://zykjoffciail.imfast.io/baidusitemap.xml

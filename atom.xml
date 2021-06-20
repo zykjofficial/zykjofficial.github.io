@@ -6,7 +6,7 @@
   <link href="https://blog.imzykj.cn/atom.xml" rel="self"/>
   
   <link href="https://blog.imzykj.cn/"/>
-  <updated>2021-01-22T15:11:18.000Z</updated>
+  <updated>2021-06-20T13:42:57.000Z</updated>
   <id>https://blog.imzykj.cn/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>PR学习</title>
+    <link href="https://blog.imzykj.cn/posts/6f4a8d9b/"/>
+    <id>https://blog.imzykj.cn/posts/6f4a8d9b/</id>
+    <published>2021-06-20T13:42:57.000Z</published>
+    <updated>2021-06-20T13:42:57.000Z</updated>
+    
+    
+    <summary type="html">Adobe Premiere Pro，简称Pr，是由Adobe公司开发的一款视频编辑软件。学习这个的目的是为了更好的剪辑视频</summary>
+    
+    
+    
+    <category term="PR教程" scheme="https://blog.imzykj.cn/categories/PR%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="PR" scheme="https://blog.imzykj.cn/tags/PR/"/>
+    
+    <category term="学习" scheme="https://blog.imzykj.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>基于Butterfly主题添加友链截图</title>
@@ -268,7 +289,7 @@
     <link href="https://blog.imzykj.cn/posts/27858d2d/"/>
     <id>https://blog.imzykj.cn/posts/27858d2d/</id>
     <published>2020-08-16T08:32:51.000Z</published>
-    <updated>2021-05-17T02:05:00.761Z</updated>
+    <updated>2021-06-20T14:03:02.854Z</updated>
     
     
     <summary type="html">学习一下Flex和Grid布局</summary>
@@ -376,9 +397,9 @@
     <category term="Android" scheme="https://blog.imzykj.cn/categories/Java/Android/"/>
     
     
-    <category term="Android" scheme="https://blog.imzykj.cn/tags/Android/"/>
-    
     <category term="学习" scheme="https://blog.imzykj.cn/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="Android" scheme="https://blog.imzykj.cn/tags/Android/"/>
     
   </entry>
   
@@ -454,29 +475,6 @@
     <category term="Vue" scheme="https://blog.imzykj.cn/tags/Vue/"/>
     
     <category term="ElementUi" scheme="https://blog.imzykj.cn/tags/ElementUi/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Axios学习</title>
-    <link href="https://blog.imzykj.cn/posts/5650a45b/"/>
-    <id>https://blog.imzykj.cn/posts/5650a45b/</id>
-    <published>2020-07-12T02:03:48.000Z</published>
-    <updated>2020-07-12T02:03:48.000Z</updated>
-    
-    
-    <summary type="html">Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。</summary>
-    
-    
-    
-    <category term="Web教程" scheme="https://blog.imzykj.cn/categories/Web%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Axios" scheme="https://blog.imzykj.cn/categories/Web%E6%95%99%E7%A8%8B/Axios/"/>
-    
-    
-    <category term="前端" scheme="https://blog.imzykj.cn/tags/%E5%89%8D%E7%AB%AF/"/>
-    
-    <category term="Axios" scheme="https://blog.imzykj.cn/tags/Axios/"/>
     
   </entry>
   

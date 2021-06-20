@@ -8,8 +8,6 @@ https://zykjofficial.github.io/
 
 https://zykjofficial.gitee.io/ 
 
-https://zykj.now.sh/
+https://zykj.vercel.app/
 
 https://zykj.netlify.app/ 
-
-https://zykjoffciail.imfast.io/ 

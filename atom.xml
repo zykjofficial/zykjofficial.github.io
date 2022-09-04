@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>卓越科技的Blog</title>
-  <icon>https://cdn.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/favicon.ico</icon>
-  <subtitle>卓越人生、只为科技。</subtitle>
+  <title>ZYKJ&#39;s Blog</title>
+  <icon>https://gcore.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/favicon.ico</icon>
+  <subtitle>打工人</subtitle>
   <link href="https://zykj.js.org/atom.xml" rel="self"/>
   
   <link href="https://zykj.js.org/"/>
@@ -10,7 +10,7 @@
   <id>https://zykj.js.org/</id>
   
   <author>
-    <name>卓越科技-</name>
+    <name>ZYKJ</name>
     
   </author>
   
@@ -289,7 +289,7 @@
     <link href="https://zykj.js.org/posts/27858d2d/"/>
     <id>https://zykj.js.org/posts/27858d2d/</id>
     <published>2020-08-16T08:32:51.000Z</published>
-    <updated>2022-07-10T08:13:55.765Z</updated>
+    <updated>2022-09-04T14:29:34.471Z</updated>
     
     
     <summary type="html">学习一下Flex和Grid布局</summary>

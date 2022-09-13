@@ -1,3 +1,3 @@
-🚀 这里是我的个人博客哟！
+🚀 Hexo博客生成目录
 
-https://zykj.js.org/
+效果请访问：https://zykj.js.org/

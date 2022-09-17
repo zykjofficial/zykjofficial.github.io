@@ -51,8 +51,6 @@
     
     <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
     
-    <category term="Butterfly" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/Butterfly/"/>
-    
     
     <category term="博客" scheme="https://zykj.js.org/tags/%E5%8D%9A%E5%AE%A2/"/>
     
@@ -72,14 +70,8 @@
     
     <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
     
-    <category term="优化" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/%E4%BC%98%E5%8C%96/"/>
-    
     
     <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
-    
-    <category term="博客" scheme="https://zykj.js.org/tags/%E5%8D%9A%E5%AE%A2/"/>
-    
-    <category term="优化" scheme="https://zykj.js.org/tags/%E4%BC%98%E5%8C%96/"/>
     
   </entry>
   
@@ -95,9 +87,7 @@
     
     
     
-    <category term="教程" scheme="https://zykj.js.org/categories/%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="黑苹果" scheme="https://zykj.js.org/categories/%E6%95%99%E7%A8%8B/%E9%BB%91%E8%8B%B9%E6%9E%9C/"/>
+    <category term="黑苹果" scheme="https://zykj.js.org/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/"/>
     
     
     <category term="黑苹果" scheme="https://zykj.js.org/tags/%E9%BB%91%E8%8B%B9%E6%9E%9C/"/>
@@ -139,10 +129,6 @@
     
     <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
     
-    <category term="Butterfly" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/Butterfly/"/>
-    
-    
-    <category term="博客" scheme="https://zykj.js.org/tags/%E5%8D%9A%E5%AE%A2/"/>
     
     <category term="Artalk" scheme="https://zykj.js.org/tags/Artalk/"/>
     
@@ -175,7 +161,7 @@
     <updated>2020-09-02T01:08:40.000Z</updated>
     
     
-    <summary type="html">~~~</summary>
+    <summary type="html">一些最基础的算法题</summary>
     
     
     
@@ -200,9 +186,9 @@
     
     
     
-    <category term="网络通信" scheme="https://zykj.js.org/categories/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/"/>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
     
-    <category term="Websocket" scheme="https://zykj.js.org/categories/%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1/Websocket/"/>
+    <category term="Websocket" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Websocket/"/>
     
     
     <category term="Websocket" scheme="https://zykj.js.org/tags/Websocket/"/>
@@ -221,9 +207,9 @@
     
     
     
-    <category term="数据库学习" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/"/>
+    <category term="数据库" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
-    <category term="MongoDB" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/MongoDB/"/>
+    <category term="MongoDB" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/"/>
     
     
     <category term="MongoDB" scheme="https://zykj.js.org/tags/MongoDB/"/>
@@ -244,9 +230,9 @@
     
     
     
-    <category term="数据库学习" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/"/>
+    <category term="数据库" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
-    <category term="MongoDB" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AD%A6%E4%B9%A0/MongoDB/"/>
+    <category term="MongoDB" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/"/>
     
     
     <category term="MongoDB" scheme="https://zykj.js.org/tags/MongoDB/"/>
@@ -267,12 +253,8 @@
     
     <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
     
-    <category term="部署" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/%E9%83%A8%E7%BD%B2/"/>
-    
     
     <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
-    
-    <category term="自动部署" scheme="https://zykj.js.org/tags/%E8%87%AA%E5%8A%A8%E9%83%A8%E7%BD%B2/"/>
     
   </entry>
   
@@ -281,7 +263,7 @@
     <link href="https://zykj.js.org/posts/27858d2d/"/>
     <id>https://zykj.js.org/posts/27858d2d/</id>
     <published>2020-08-16T08:32:51.000Z</published>
-    <updated>2022-09-14T15:20:40.998Z</updated>
+    <updated>2022-09-17T15:50:09.699Z</updated>
     
     
     <summary type="html">学习一下Flex和Grid布局</summary>
@@ -315,8 +297,6 @@
     
     
     <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
-    
-    <category term="Nuxt.js" scheme="https://zykj.js.org/tags/Nuxt-js/"/>
     
   </entry>
   
@@ -359,10 +339,6 @@
     
     
     <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
-    
-    <category term="Vue-Router" scheme="https://zykj.js.org/tags/Vue-Router/"/>
-    
-    <category term="Vuex" scheme="https://zykj.js.org/tags/Vuex/"/>
     
   </entry>
   

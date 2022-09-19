@@ -20,15 +20,6 @@
   </url>
   
   <url>
-    <loc>https://zykj.js.org/friendcircle/index.html</loc>
-    
-    <lastmod>2022-09-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zykj.js.org/link/index.html</loc>
     
     <lastmod>2022-09-19</lastmod>
@@ -102,6 +93,15 @@
   
   <url>
     <loc>https://zykj.js.org/categories/index.html</loc>
+    
+    <lastmod>2022-09-19</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zykj.js.org/friendcircle/index.html</loc>
     
     <lastmod>2022-09-19</lastmod>
     
@@ -792,6 +792,13 @@
   </url>
   
   <url>
+    <loc>https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/%E8%B7%A8%E5%9F%9F/</loc>
+    <lastmod>2022-09-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/CSS/</loc>
     <lastmod>2022-09-19</lastmod>
     <changefreq>weekly</changefreq>
@@ -800,13 +807,6 @@
   
   <url>
     <loc>https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2022-09-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/%E8%B7%A8%E5%9F%9F/</loc>
     <lastmod>2022-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

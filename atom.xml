@@ -33,8 +33,6 @@
     
     <category term="PR" scheme="https://zykj.js.org/tags/PR/"/>
     
-    <category term="学习" scheme="https://zykj.js.org/tags/%E5%AD%A6%E4%B9%A0/"/>
-    
   </entry>
   
   <entry>
@@ -52,7 +50,7 @@
     <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
     
     
-    <category term="博客" scheme="https://zykj.js.org/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
     
   </entry>
   
@@ -209,10 +207,8 @@
     
     <category term="数据库" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
     
-    <category term="MongoDB" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/"/>
+    <category term="Mongoose" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/Mongoose/"/>
     
-    
-    <category term="MongoDB" scheme="https://zykj.js.org/tags/MongoDB/"/>
     
     <category term="Mongoose" scheme="https://zykj.js.org/tags/Mongoose/"/>
     
@@ -263,7 +259,7 @@
     <link href="https://zykj.js.org/posts/27858d2d/"/>
     <id>https://zykj.js.org/posts/27858d2d/</id>
     <published>2020-08-16T08:32:51.000Z</published>
-    <updated>2022-09-21T15:35:40.832Z</updated>
+    <updated>2020-08-16T08:32:51.000Z</updated>
     
     
     <summary type="html">学习一下Flex和Grid布局</summary>
@@ -350,7 +346,7 @@
     <updated>2020-08-01T13:54:21.000Z</updated>
     
     
-    <summary type="html">学习的笔记、总结一下、只是基础。</summary>
+    <summary type="html">笔记。</summary>
     
     
     
@@ -358,8 +354,6 @@
     
     <category term="Android" scheme="https://zykj.js.org/categories/Java/Android/"/>
     
-    
-    <category term="学习" scheme="https://zykj.js.org/tags/%E5%AD%A6%E4%B9%A0/"/>
     
     <category term="Android" scheme="https://zykj.js.org/tags/Android/"/>
     

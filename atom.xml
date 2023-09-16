@@ -6,7 +6,7 @@
   <link href="https://zykj.js.org/atom.xml" rel="self"/>
   
   <link href="https://zykj.js.org/"/>
-  <updated>2021-06-20T13:42:57.000Z</updated>
+  <updated>2023-09-16T13:55:31.895Z</updated>
   <id>https://zykj.js.org/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>银河麒麟V10(SP1)+Win10双系统安装教程</title>
+    <link href="https://zykj.js.org/posts/bfef7fc9/"/>
+    <id>https://zykj.js.org/posts/bfef7fc9/</id>
+    <published>2023-09-16T12:45:05.000Z</published>
+    <updated>2023-09-16T13:55:31.895Z</updated>
+    
+    
+    <summary type="html">研究了一段时间的单盘安装双系统方法，希望对你有所帮助！</summary>
+    
+    
+    
+    
+    <category term="银河麒麟" scheme="https://zykj.js.org/tags/%E9%93%B6%E6%B2%B3%E9%BA%92%E9%BA%9F/"/>
+    
+    <category term="Windows 10" scheme="https://zykj.js.org/tags/Windows-10/"/>
+    
+  </entry>
   
   <entry>
     <title>PR学习</title>
@@ -364,7 +383,7 @@
     <link href="https://zykj.js.org/posts/4e1c7631/"/>
     <id>https://zykj.js.org/posts/4e1c7631/</id>
     <published>2020-07-28T12:27:14.000Z</published>
-    <updated>2023-10-10T14:11:14.000Z</updated>
+    <updated>2023-09-04T14:11:14.000Z</updated>
     
     
     <summary type="html">这里记录这我看的动漫、满满的回忆、持续更新中</summary>
@@ -387,29 +406,6 @@
     
     
     <summary type="html">通过简单的小项目、学习一下ElementUi与SpringBoot</summary>
-    
-    
-    
-    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="ElementUi" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/ElementUi/"/>
-    
-    
-    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
-    
-    <category term="ElementUi" scheme="https://zykj.js.org/tags/ElementUi/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>ElementUi学习(上)</title>
-    <link href="https://zykj.js.org/posts/906e6f9d/"/>
-    <id>https://zykj.js.org/posts/906e6f9d/</id>
-    <published>2020-07-17T13:26:58.000Z</published>
-    <updated>2020-07-18T13:26:58.000Z</updated>
-    
-    
-    <summary type="html">网站快速成型工具、对于我这样比较懒的人、需要看视频记笔记</summary>
     
     
     

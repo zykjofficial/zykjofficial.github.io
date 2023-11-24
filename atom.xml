@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>ZYKJ&#39;s Blog</title>
   <icon>https://gcore.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/favicon.ico</icon>
-  <subtitle>搬砖的</subtitle>
+  <subtitle>普通人</subtitle>
   <link href="https://zykj.js.org/atom.xml" rel="self"/>
   
   <link href="https://zykj.js.org/"/>
-  <updated>2023-09-16T13:55:31.895Z</updated>
+  <updated>2023-11-24T14:42:21.990Z</updated>
   <id>https://zykj.js.org/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://zykj.js.org/posts/bfef7fc9/"/>
     <id>https://zykj.js.org/posts/bfef7fc9/</id>
     <published>2023-09-16T12:45:05.000Z</published>
-    <updated>2023-09-16T13:55:31.895Z</updated>
+    <updated>2023-11-24T14:42:21.990Z</updated>
     
     
     <summary type="html">研究了一段时间的单盘安装双系统方法，希望对你有所帮助！</summary>

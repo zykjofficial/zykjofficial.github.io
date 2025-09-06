@@ -9,7 +9,7 @@ Disallow: /*.js
 Disallow: /*.css
 
 Sitemap: https://zykj.js.org/sitemap.xml
-Sitemap: https://zykj.js.org/baidusitemap.xml
 
 Sitemap: https://zykjofficial.github.io/sitemap.xml
-Sitemap: https://zykjofficial.github.io/baidusitemap.xml
+
+Sitemap: https://zykj.pages.dev

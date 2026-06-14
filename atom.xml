@@ -1,423 +1,285 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>ZYKJ&#39;s Blog</title>
-  <icon>https://gcore.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/favicon.ico</icon>
-  <subtitle>普通人</subtitle>
-  <link href="https://zykj.js.org/atom.xml" rel="self"/>
-  
-  <link href="https://zykj.js.org/"/>
-  <updated>2023-09-16T12:45:05.000Z</updated>
-  <id>https://zykj.js.org/</id>
-  
   <author>
     <name>ZYKJ</name>
-    
   </author>
-  
   <generator uri="https://hexo.io/">Hexo</generator>
-  
+  <icon>https://gcore.jsdelivr.net/gh/zykjofficial/zykjofficial.github.io@master/img/favicon.ico</icon>
+  <id>https://zykj.js.org/</id>
+  <link href="https://zykj.js.org/" rel="alternate"/>
+  <link href="https://zykj.js.org/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, ZYKJ</rights>
+  <subtitle>普通人</subtitle>
+  <title>ZYKJ's Blog</title>
+  <updated>2026-06-14T13:27:09.025Z</updated>
   <entry>
-    <title>银河麒麟V10(SP1)+Win10双系统安装教程</title>
-    <link href="https://zykj.js.org/posts/bfef7fc9/"/>
-    <id>https://zykj.js.org/posts/bfef7fc9/</id>
-    <published>2023-09-16T12:45:05.000Z</published>
-    <updated>2023-09-16T12:45:05.000Z</updated>
-    
-    
-    <summary type="html">研究了一段时间的单盘安装双系统方法，希望对你有所帮助！</summary>
-    
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
+    <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
+    <id>https://zykj.js.org/posts/15776ef/</id>
+    <link href="https://zykj.js.org/posts/15776ef/"/>
+    <published>2026-06-14T09:42:26.000Z</published>
+    <summary>记录自己升级Hexo和Nodejs</summary>
+    <title>Butterfly主题升级Hexo和Nodejs教程</title>
+    <updated>2026-06-14T13:27:09.025Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="银河麒麟" scheme="https://zykj.js.org/tags/%E9%93%B6%E6%B2%B3%E9%BA%92%E9%BA%9F/"/>
-    
     <category term="Windows 10" scheme="https://zykj.js.org/tags/Windows-10/"/>
-    
+    <id>https://zykj.js.org/posts/bfef7fc9/</id>
+    <link href="https://zykj.js.org/posts/bfef7fc9/"/>
+    <published>2023-09-16T12:45:05.000Z</published>
+    <summary>研究了一段时间的单盘安装双系统方法，希望对你有所帮助！</summary>
+    <title>银河麒麟V10(SP1)+Win10双系统安装教程</title>
+    <updated>2023-09-16T12:45:05.000Z</updated>
   </entry>
-  
   <entry>
-    <title>PR学习</title>
-    <link href="https://zykj.js.org/posts/6f4a8d9b/"/>
-    <id>https://zykj.js.org/posts/6f4a8d9b/</id>
-    <published>2021-06-20T13:42:57.000Z</published>
-    <updated>2021-06-20T13:42:57.000Z</updated>
-    
-    
-    <summary type="html">Adobe Premiere Pro，简称Pr，是由Adobe公司开发的一款视频编辑软件。学习这个的目的是为了更好的剪辑视频</summary>
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="PR教程" scheme="https://zykj.js.org/categories/PR%E6%95%99%E7%A8%8B/"/>
-    
-    
     <category term="PR" scheme="https://zykj.js.org/tags/PR/"/>
-    
+    <id>https://zykj.js.org/posts/6f4a8d9b/</id>
+    <link href="https://zykj.js.org/posts/6f4a8d9b/"/>
+    <published>2021-06-20T13:42:57.000Z</published>
+    <summary>Adobe Premiere Pro，简称Pr，是由Adobe公司开发的一款视频编辑软件。学习这个的目的是为了更好的剪辑视频</summary>
+    <title>PR学习</title>
+    <updated>2021-06-20T13:42:57.000Z</updated>
   </entry>
-  
   <entry>
-    <title>基于Butterfly主题添加友链截图</title>
-    <link href="https://zykj.js.org/posts/7e59e1ac/"/>
+    <author>
+      <name>ZYKJ</name>
+    </author>
+    <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
     <id>https://zykj.js.org/posts/7e59e1ac/</id>
+    <link href="https://zykj.js.org/posts/7e59e1ac/"/>
     <published>2020-12-30T12:19:18.000Z</published>
+    <summary>本篇文章介绍如何在Butterfly主题中添加友链截图</summary>
+    <title>基于Butterfly主题添加友链截图</title>
     <updated>2021-01-22T15:11:18.000Z</updated>
-    
-    
-    <summary type="html">本篇文章介绍如何在Butterfly主题中添加友链截图</summary>
-    
-    
-    
-    <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
-    
   </entry>
-  
   <entry>
-    <title>我是如何优化博客的</title>
-    <link href="https://zykj.js.org/posts/7cfb88dd/"/>
+    <author>
+      <name>ZYKJ</name>
+    </author>
+    <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
     <id>https://zykj.js.org/posts/7cfb88dd/</id>
+    <link href="https://zykj.js.org/posts/7cfb88dd/"/>
     <published>2020-11-29T08:26:24.000Z</published>
+    <summary>本篇文章介绍了我是如何优化我自己的博客的，希望给大家一些帮助。</summary>
+    <title>我是如何优化博客的</title>
     <updated>2020-12-15T13:05:24.000Z</updated>
-    
-    
-    <summary type="html">本篇文章介绍了我是如何优化我自己的博客的，希望给大家一些帮助。</summary>
-    
-    
-    
-    <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
-    
   </entry>
-  
   <entry>
-    <title>记安装黑苹果</title>
-    <link href="https://zykj.js.org/posts/104511dc/"/>
-    <id>https://zykj.js.org/posts/104511dc/</id>
-    <published>2020-11-14T13:43:00.000Z</published>
-    <updated>2021-01-13T03:51:00.000Z</updated>
-    
-    
-    <summary type="html">记录自己安装成功黑苹果</summary>
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="黑苹果" scheme="https://zykj.js.org/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/"/>
-    
-    
     <category term="黑苹果" scheme="https://zykj.js.org/tags/%E9%BB%91%E8%8B%B9%E6%9E%9C/"/>
-    
+    <id>https://zykj.js.org/posts/104511dc/</id>
+    <link href="https://zykj.js.org/posts/104511dc/"/>
+    <published>2020-11-14T13:43:00.000Z</published>
+    <summary>记录自己安装成功黑苹果</summary>
+    <title>记安装黑苹果</title>
+    <updated>2021-01-13T03:51:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>Vue3学习</title>
-    <link href="https://zykj.js.org/posts/7305059/"/>
+    <author>
+      <name>ZYKJ</name>
+    </author>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     <id>https://zykj.js.org/posts/7305059/</id>
+    <link href="https://zykj.js.org/posts/7305059/"/>
     <published>2020-10-21T01:37:56.000Z</published>
+    <summary>Vuejs 3.0 在北京时间2020年9月19日凌晨，终于发布了 3.0 版本，代号：One Piece</summary>
+    <title>Vue3学习</title>
     <updated>2020-10-25T01:37:56.000Z</updated>
-    
-    
-    <summary type="html">Vuejs 3.0 在北京时间2020年9月19日凌晨，终于发布了 3.0 版本，代号：One Piece</summary>
-    
-    
-    
-    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
-    
-    
-    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
-    
   </entry>
-  
   <entry>
-    <title>基于Butterfly主题添加Artalk评论系统</title>
-    <link href="https://zykj.js.org/posts/93afb348/"/>
-    <id>https://zykj.js.org/posts/93afb348/</id>
-    <published>2020-09-21T08:17:59.000Z</published>
-    <updated>2021-01-19T03:42:59.000Z</updated>
-    
-    
-    <summary type="html">本篇文章介绍Artalk的安装和配置以及如何整合到Butterfly主题中</summary>
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
-    
-    
     <category term="Artalk" scheme="https://zykj.js.org/tags/Artalk/"/>
-    
+    <id>https://zykj.js.org/posts/93afb348/</id>
+    <link href="https://zykj.js.org/posts/93afb348/"/>
+    <published>2020-09-21T08:17:59.000Z</published>
+    <summary>本篇文章介绍Artalk的安装和配置以及如何整合到Butterfly主题中</summary>
+    <title>基于Butterfly主题添加Artalk评论系统</title>
+    <updated>2021-01-19T03:42:59.000Z</updated>
   </entry>
-  
   <entry>
-    <title>Python学习</title>
-    <link href="https://zykj.js.org/posts/69742e4c/"/>
-    <id>https://zykj.js.org/posts/69742e4c/</id>
-    <published>2020-09-07T00:32:26.000Z</published>
-    <updated>2020-09-17T12:25:26.000Z</updated>
-    
-    
-    <summary type="html">Python学习笔记</summary>
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="Python" scheme="https://zykj.js.org/categories/Python/"/>
-    
-    
     <category term="Python" scheme="https://zykj.js.org/tags/Python/"/>
-    
+    <id>https://zykj.js.org/posts/69742e4c/</id>
+    <link href="https://zykj.js.org/posts/69742e4c/"/>
+    <published>2020-09-07T00:32:26.000Z</published>
+    <summary>Python学习笔记</summary>
+    <title>Python学习</title>
+    <updated>2020-09-17T12:25:26.000Z</updated>
   </entry>
-  
   <entry>
-    <title>LeetCode算法题学习</title>
-    <link href="https://zykj.js.org/posts/d95a567b/"/>
-    <id>https://zykj.js.org/posts/d95a567b/</id>
-    <published>2020-09-02T01:08:40.000Z</published>
-    <updated>2020-09-02T01:08:40.000Z</updated>
-    
-    
-    <summary type="html">一些最基础的算法题</summary>
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="算法题" scheme="https://zykj.js.org/categories/%E7%AE%97%E6%B3%95%E9%A2%98/"/>
-    
-    
-    <category term="算法" scheme="https://zykj.js.org/tags/%E7%AE%97%E6%B3%95/"/>
-    
     <category term="JavaScript" scheme="https://zykj.js.org/tags/JavaScript/"/>
-    
+    <category term="算法" scheme="https://zykj.js.org/tags/%E7%AE%97%E6%B3%95/"/>
+    <id>https://zykj.js.org/posts/d95a567b/</id>
+    <link href="https://zykj.js.org/posts/d95a567b/"/>
+    <published>2020-09-02T01:08:40.000Z</published>
+    <summary>一些最基础的算法题</summary>
+    <title>LeetCode算法题学习</title>
+    <updated>2020-09-02T01:08:40.000Z</updated>
   </entry>
-  
   <entry>
-    <title>Websocket学习</title>
-    <link href="https://zykj.js.org/posts/bbacf423/"/>
-    <id>https://zykj.js.org/posts/bbacf423/</id>
-    <published>2020-08-24T08:34:24.000Z</published>
-    <updated>2020-08-24T08:34:24.000Z</updated>
-    
-    
-    <summary type="html">WebSocket是一种在单个TCP连接上进行全双工通信的协议。WebSocket通信协议于2011年被IETF定为标准RFC 6455，并由RFC7936补充规范。WebSocket API也被W3C定为标准。</summary>
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
-    
     <category term="Websocket" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Websocket/"/>
-    
-    
     <category term="Websocket" scheme="https://zykj.js.org/tags/Websocket/"/>
-    
+    <id>https://zykj.js.org/posts/bbacf423/</id>
+    <link href="https://zykj.js.org/posts/bbacf423/"/>
+    <published>2020-08-24T08:34:24.000Z</published>
+    <summary>WebSocket是一种在单个TCP连接上进行全双工通信的协议。WebSocket通信协议于2011年被IETF定为标准RFC 6455，并由RFC7936补充规范。WebSocket API也被W3C定为标准。</summary>
+    <title>Websocket学习</title>
+    <updated>2020-08-24T08:34:24.000Z</updated>
   </entry>
-  
   <entry>
-    <title>Mongoose学习</title>
-    <link href="https://zykj.js.org/posts/59470b8/"/>
-    <id>https://zykj.js.org/posts/59470b8/</id>
-    <published>2020-08-23T01:18:03.000Z</published>
-    <updated>2020-08-23T01:18:03.000Z</updated>
-    
-    
-    <summary type="html">Mongoose是在node.js异步环境下对mongodb进行便捷操作的对象模型工具</summary>
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="数据库" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
     <category term="Mongoose" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/Mongoose/"/>
-    
-    
     <category term="Mongoose" scheme="https://zykj.js.org/tags/Mongoose/"/>
-    
+    <id>https://zykj.js.org/posts/59470b8/</id>
+    <link href="https://zykj.js.org/posts/59470b8/"/>
+    <published>2020-08-23T01:18:03.000Z</published>
+    <summary>Mongoose是在node.js异步环境下对mongodb进行便捷操作的对象模型工具</summary>
+    <title>Mongoose学习</title>
+    <updated>2020-08-23T01:18:03.000Z</updated>
   </entry>
-  
   <entry>
-    <title>MongoDB学习</title>
-    <link href="https://zykj.js.org/posts/3b691274/"/>
-    <id>https://zykj.js.org/posts/3b691274/</id>
-    <published>2020-08-21T01:49:40.000Z</published>
-    <updated>2020-08-21T01:49:40.000Z</updated>
-    
-    
-    <summary type="html">MongoDB是一个基于分布式文件存储的数据库。由C++语言编写。旨在为WEB应用提供可扩展的高性能数据存储解决方案。</summary>
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="数据库" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    
     <category term="MongoDB" scheme="https://zykj.js.org/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/MongoDB/"/>
-    
-    
     <category term="MongoDB" scheme="https://zykj.js.org/tags/MongoDB/"/>
-    
+    <id>https://zykj.js.org/posts/3b691274/</id>
+    <link href="https://zykj.js.org/posts/3b691274/"/>
+    <published>2020-08-21T01:49:40.000Z</published>
+    <summary>MongoDB是一个基于分布式文件存储的数据库。由C++语言编写。旨在为WEB应用提供可扩展的高性能数据存储解决方案。</summary>
+    <title>MongoDB学习</title>
+    <updated>2020-08-21T01:49:40.000Z</updated>
   </entry>
-  
   <entry>
-    <title>使用 Github Actions 自动部署Hexo博客</title>
-    <link href="https://zykj.js.org/posts/ea8e8e59/"/>
-    <id>https://zykj.js.org/posts/ea8e8e59/</id>
-    <published>2020-08-20T13:25:15.000Z</published>
-    <updated>2022-08-07T00:07:00.000Z</updated>
-    
-    
-    <summary type="html">使用 Github Actions 部署Hexo博客、方便快捷</summary>
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
-    
-    
     <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
-    
+    <id>https://zykj.js.org/posts/ea8e8e59/</id>
+    <link href="https://zykj.js.org/posts/ea8e8e59/"/>
+    <published>2020-08-20T13:25:15.000Z</published>
+    <summary>使用 Github Actions 部署Hexo博客、方便快捷</summary>
+    <title>使用 Github Actions 自动部署Hexo博客</title>
+    <updated>2022-08-07T00:07:00.000Z</updated>
   </entry>
-  
   <entry>
-    <title>Flex 与 Grid 学习</title>
-    <link href="https://zykj.js.org/posts/27858d2d/"/>
-    <id>https://zykj.js.org/posts/27858d2d/</id>
-    <published>2020-08-16T08:32:51.000Z</published>
-    <updated>2020-08-16T08:32:51.000Z</updated>
-    
-    
-    <summary type="html">学习一下Flex和Grid布局</summary>
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
-    
     <category term="CSS" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/CSS/"/>
-    
-    
     <category term="CSS" scheme="https://zykj.js.org/tags/CSS/"/>
-    
+    <id>https://zykj.js.org/posts/27858d2d/</id>
+    <link href="https://zykj.js.org/posts/27858d2d/"/>
+    <published>2020-08-16T08:32:51.000Z</published>
+    <summary>学习一下Flex和Grid布局</summary>
+    <title>Flex 与 Grid 学习</title>
+    <updated>2020-08-16T08:32:51.000Z</updated>
   </entry>
-  
   <entry>
-    <title>Nuxt.js 学习</title>
-    <link href="https://zykj.js.org/posts/e400c46/"/>
+    <author>
+      <name>ZYKJ</name>
+    </author>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     <id>https://zykj.js.org/posts/e400c46/</id>
+    <link href="https://zykj.js.org/posts/e400c46/"/>
     <published>2020-08-12T14:25:24.000Z</published>
+    <summary>Nuxt.js 是一个基于 Vue.js 的通用应用框架。通过对客户端/服务端基础架构的抽象组织，Nuxt.js 主要关注的是应用的 UI 渲染。</summary>
+    <title>Nuxt.js 学习</title>
     <updated>2020-08-12T14:25:24.000Z</updated>
-    
-    
-    <summary type="html">Nuxt.js 是一个基于 Vue.js 的通用应用框架。通过对客户端/服务端基础架构的抽象组织，Nuxt.js 主要关注的是应用的 UI 渲染。</summary>
-    
-    
-    
-    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
-    
-    
-    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
-    
   </entry>
-  
   <entry>
-    <title>Vue响应式原理解读</title>
-    <link href="https://zykj.js.org/posts/a9e8a85d/"/>
+    <author>
+      <name>ZYKJ</name>
+    </author>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     <id>https://zykj.js.org/posts/a9e8a85d/</id>
+    <link href="https://zykj.js.org/posts/a9e8a85d/"/>
     <published>2020-08-05T12:20:13.000Z</published>
+    <summary>学习了Vue的基础知识、了解一下Vue的响应式原理吧</summary>
+    <title>Vue响应式原理解读</title>
     <updated>2020-08-08T15:23:13.000Z</updated>
-    
-    
-    <summary type="html">学习了Vue的基础知识、了解一下Vue的响应式原理吧</summary>
-    
-    
-    
-    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
-    
-    
-    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
-    
   </entry>
-  
   <entry>
-    <title>Vue仿蘑菇街项目</title>
-    <link href="https://zykj.js.org/posts/42ed6352/"/>
+    <author>
+      <name>ZYKJ</name>
+    </author>
+    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
+    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
+    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
     <id>https://zykj.js.org/posts/42ed6352/</id>
+    <link href="https://zykj.js.org/posts/42ed6352/"/>
     <published>2020-08-04T09:28:23.000Z</published>
+    <summary>我们学习了Vue相关的知识、现在我们通过一个项目来巩固知识</summary>
+    <title>Vue仿蘑菇街项目</title>
     <updated>2020-08-04T09:28:23.000Z</updated>
-    
-    
-    <summary type="html">我们学习了Vue相关的知识、现在我们通过一个项目来巩固知识</summary>
-    
-    
-    
-    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="Vue" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Vue/"/>
-    
-    
-    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
-    
   </entry>
-  
   <entry>
-    <title>Android学习</title>
-    <link href="https://zykj.js.org/posts/5d018fb1/"/>
-    <id>https://zykj.js.org/posts/5d018fb1/</id>
-    <published>2020-08-01T13:54:21.000Z</published>
-    <updated>2020-08-01T13:54:21.000Z</updated>
-    
-    
-    <summary type="html">笔记。</summary>
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="Java" scheme="https://zykj.js.org/categories/Java/"/>
-    
     <category term="Android" scheme="https://zykj.js.org/categories/Java/Android/"/>
-    
-    
     <category term="Android" scheme="https://zykj.js.org/tags/Android/"/>
-    
+    <id>https://zykj.js.org/posts/5d018fb1/</id>
+    <link href="https://zykj.js.org/posts/5d018fb1/"/>
+    <published>2020-08-01T13:54:21.000Z</published>
+    <summary>笔记。</summary>
+    <title>Android学习</title>
+    <updated>2020-08-01T13:54:21.000Z</updated>
   </entry>
-  
   <entry>
-    <title>那些年我看的动漫</title>
-    <link href="https://zykj.js.org/posts/4e1c7631/"/>
-    <id>https://zykj.js.org/posts/4e1c7631/</id>
-    <published>2020-07-28T12:27:14.000Z</published>
-    <updated>2026-05-31T09:29:14.000Z</updated>
-    
-    
-    <summary type="html">这里记录这我看的动漫、满满的回忆、持续更新中</summary>
-    
-    
-    
+    <author>
+      <name>ZYKJ</name>
+    </author>
     <category term="动漫" scheme="https://zykj.js.org/categories/%E5%8A%A8%E6%BC%AB/"/>
-    
-    
     <category term="动漫" scheme="https://zykj.js.org/tags/%E5%8A%A8%E6%BC%AB/"/>
-    
+    <id>https://zykj.js.org/posts/4e1c7631/</id>
+    <link href="https://zykj.js.org/posts/4e1c7631/"/>
+    <published>2020-07-28T12:27:14.000Z</published>
+    <summary>这里记录这我看的动漫、满满的回忆、持续更新中</summary>
+    <title>那些年我看的动漫</title>
+    <updated>2026-05-31T09:29:14.000Z</updated>
   </entry>
-  
-  <entry>
-    <title>ElementUi学习(下)</title>
-    <link href="https://zykj.js.org/posts/89755edc/"/>
-    <id>https://zykj.js.org/posts/89755edc/</id>
-    <published>2020-07-18T13:48:26.000Z</published>
-    <updated>2020-07-18T13:48:26.000Z</updated>
-    
-    
-    <summary type="html">通过简单的小项目、学习一下ElementUi与SpringBoot</summary>
-    
-    
-    
-    <category term="Web教程" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/"/>
-    
-    <category term="ElementUi" scheme="https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/ElementUi/"/>
-    
-    
-    <category term="Vue" scheme="https://zykj.js.org/tags/Vue/"/>
-    
-    <category term="ElementUi" scheme="https://zykj.js.org/tags/ElementUi/"/>
-    
-  </entry>
-  
 </feed>

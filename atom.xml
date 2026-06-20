@@ -11,7 +11,21 @@
   <rights>All rights reserved 2026, ZYKJ</rights>
   <subtitle>普通人</subtitle>
   <title>ZYKJ's Blog</title>
-  <updated>2026-06-14T13:27:09.025Z</updated>
+  <updated>2026-06-20T03:20:48.000Z</updated>
+  <entry>
+    <author>
+      <name>ZYKJ</name>
+    </author>
+    <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
+    <category term="Butterfly" scheme="https://zykj.js.org/tags/Butterfly/"/>
+    <id>https://zykj.js.org/posts/96932cee/</id>
+    <link href="https://zykj.js.org/posts/96932cee/"/>
+    <published>2026-06-20T03:20:48.000Z</published>
+    <summary>怕忘记这些样式该如何写、写篇文章介绍一下。</summary>
+    <title>Butterfly主题魔改样式查阅(魔改篇)</title>
+    <updated>2026-06-20T03:20:48.000Z</updated>
+  </entry>
   <entry>
     <author>
       <name>ZYKJ</name>
@@ -23,7 +37,7 @@
     <published>2026-06-14T09:42:26.000Z</published>
     <summary>记录自己升级Hexo和Nodejs</summary>
     <title>Butterfly主题升级Hexo和Nodejs教程</title>
-    <updated>2026-06-14T13:27:09.025Z</updated>
+    <updated>2026-06-20T13:52:05.092Z</updated>
   </entry>
   <entry>
     <author>
@@ -197,7 +211,7 @@
     <published>2020-08-20T13:25:15.000Z</published>
     <summary>使用 Github Actions 部署Hexo博客、方便快捷</summary>
     <title>使用 Github Actions 自动部署Hexo博客</title>
-    <updated>2022-08-07T00:07:00.000Z</updated>
+    <updated>2026-06-07T13:07:00.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -268,18 +282,5 @@
     <summary>笔记。</summary>
     <title>Android学习</title>
     <updated>2020-08-01T13:54:21.000Z</updated>
-  </entry>
-  <entry>
-    <author>
-      <name>ZYKJ</name>
-    </author>
-    <category term="动漫" scheme="https://zykj.js.org/categories/%E5%8A%A8%E6%BC%AB/"/>
-    <category term="动漫" scheme="https://zykj.js.org/tags/%E5%8A%A8%E6%BC%AB/"/>
-    <id>https://zykj.js.org/posts/4e1c7631/</id>
-    <link href="https://zykj.js.org/posts/4e1c7631/"/>
-    <published>2020-07-28T12:27:14.000Z</published>
-    <summary>这里记录这我看的动漫、满满的回忆、持续更新中</summary>
-    <title>那些年我看的动漫</title>
-    <updated>2026-05-31T09:29:14.000Z</updated>
   </entry>
 </feed>

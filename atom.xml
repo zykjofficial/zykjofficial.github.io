@@ -37,7 +37,7 @@
     <published>2026-06-14T09:42:26.000Z</published>
     <summary>记录自己升级Hexo和Nodejs</summary>
     <title>Butterfly主题升级Hexo和Nodejs教程</title>
-    <updated>2026-07-01T13:49:27.164Z</updated>
+    <updated>2026-06-14T09:42:26.000Z</updated>
   </entry>
   <entry>
     <author>
@@ -71,6 +71,7 @@
     </author>
     <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
     <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
+    <category term="Butterfly" scheme="https://zykj.js.org/tags/Butterfly/"/>
     <id>https://zykj.js.org/posts/7e59e1ac/</id>
     <link href="https://zykj.js.org/posts/7e59e1ac/"/>
     <published>2020-12-30T12:19:18.000Z</published>
@@ -123,6 +124,8 @@
       <name>ZYKJ</name>
     </author>
     <category term="Hexo教程" scheme="https://zykj.js.org/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    <category term="Hexo" scheme="https://zykj.js.org/tags/Hexo/"/>
+    <category term="Butterfly" scheme="https://zykj.js.org/tags/Butterfly/"/>
     <category term="Artalk" scheme="https://zykj.js.org/tags/Artalk/"/>
     <id>https://zykj.js.org/posts/93afb348/</id>
     <link href="https://zykj.js.org/posts/93afb348/"/>

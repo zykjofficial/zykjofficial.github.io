@@ -47,7 +47,7 @@ git clone -b dev https://github.com/jerryc127/hexo-theme-butterfly.git themes/bu
 
 #### 方式二：NPM 安装
 
-> ⚠️ **注意**: NPM 安装方式仅支援 Hexo 5.0.0 及以上版本
+> ⚠️ **注意**: NPM 安装方式仅支持 Hexo 5.0.0 及以上版本
 
 ```bash
 npm install hexo-theme-butterfly
@@ -55,7 +55,7 @@ npm install hexo-theme-butterfly
 
 ### ⚙️ 主题配置
 
-1. **启用主题**: 修改您的 Hexo 配置档桉 `_config.yml`：
+1. **启用主题**: 修改您的 Hexo 配置 `_config.yml`：
 
 ```yaml
 theme: butterfly
@@ -70,43 +70,43 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
 ## ✨ 主题特色
 
 ### 🎨 设计风格
-- [x] **卡片化设计** - 现代化的卡片式佈局
-- [x] **圆角/直角设计** - 支援自订边框样式
-- [x] **响应式设计** - 完美适配各种萤幕尺寸
-- [x] **双栏佈局** - 优化的阅读体验
+- [x] **卡片化设计** - 现代化的卡片式布局
+- [x] **圆角/直角设计** - 支持自定边框样式
+- [x] **响应式设计** - 完美适配各种屏幕尺寸
+- [x] **双栏布局** - 优化的阅读体验
 - [x] **深色模式** - 护眼的夜间模式
 
 ### 📝 内容功能
-- [x] **多级选单** - 支援二级导航选单
+- [x] **多级选项** - 支持二级导航选项
 - [x] **阅读模式** - 专注的文章阅读体验
-- [x] **目录导航** - 电脑和手机双端支援 TOC
+- [x] **目录导航** - 电脑和手机双端支持 TOC
 - [x] **字数统计** - 显示文章字数和阅读时间
 - [x] **相关文章** - 智能推荐相关内容
 - [x] **过期提醒** - 自动提示文章更新状态
-- [x] **简繁转换** - 支援繁体中文和简体中文切换
-- [x] **标籤外挂** - 丰富的标籤外挂支持
+- [x] **简繁转换** - 支持繁体中文和简体中文切换
+- [x] **标籤外挂** - 丰富的标签外挂支持
 
 ### 🔍 搜寻与导航
-- [x] **多种搜寻** - Algolia 搜寻 / 本地搜寻 / Docsearch
+- [x] **多种搜寻** - Algolia 搜索 / 本地搜索 / Docsearch
 - [x] **内建 404** - 美观的 404 错误页面
-- [x] **Pjax 支援** - 流畅的页面切换体验
+- [x] **Pjax 支持** - 流畅的页面切换体验
 
 ### 🎨 程式码展示
 - [x] **语法高亮** - 内建多种主题（darker/pale night/light/ocean）
-- [x] **程式码功能** - 语言显示/摺叠展开/複制按钮/自动换行
-- [x] **数学公式** - 支援 Mathjax 和 Katex
+- [x] **程式码功能** - 语言显示/折叠展开/复制按钮/自动换行
+- [x] **数学公式** - 支持 Mathjax 和 Katex
 
 ### 💬 社交互动
 - [x] **多元评论系统** - Disqus/Gitalk/Valine/Waline/Twikoo/Giscus/Artalk 等
-- [x] **双评论支援** - 可同时启用两套评论系统
+- [x] **双评论支持** - 可同时启用两套评论系统
 - [x] **分享功能** - Sharejs/Addtoany 分享套件
 - [x] **线上客服** - Chatra/Tidio/Crisp 即时聊天
 
 ### 📊 数据分析
 - [x] **访问统计** - 不蒜子计数器
 - [x] **网站分析** - Google Analytics/百度统计/Cloudflare Analytics/Microsoft Clarity/Umami
-- [x] **站长验证** - 各大搜寻引擎验证
-- [x] **广告支援** - Google AdSense/自订广告位
+- [x] **站长验证** - 各大搜索引擎验证
+- [x] **广告支持** - Google AdSense/自定广告位
 
 ### 🎪 视觉效果
 - [x] **打字特效** - activate_power_mode 动画
@@ -117,15 +117,15 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
 - [x] **懒载入** - 图片延迟载入优化
 
 ### 🛠️ 进阶功能
-- [x] **PWA 支援** - 渐进式网页应用
-- [x] **複制保护** - 可关闭文字複制/版权资讯追加
+- [x] **PWA 支持** - 渐进式网页应用
+- [x] **复制保护** - 可关闭文字复制/版权资讯追加
 - [x] **主题定制** - 自订网站配色方桉
-- [x] **图表支援** - Mermaid 流程图/Chart.js 数据图表
-- [x] **音乐符号** - ABCJS 音乐记谱法支援
+- [x] **图表支持** - Mermaid 流程图/Chart.js 数据图表
+- [x] **音乐符号** - ABCJS 音乐记谱法支持
 - [x] **音乐播放器** - APlayer/Meting 音乐播放功能
-- [x] **系列文章** - 系列文章组织功能
+- [x] **系列文章** - 系列文章功能
 - [x] **Instantpage** - 页面预载入加速
-- [x] **Snackbar** - 优雅的提示讯息
+- [x] **Snackbar** - 优雅的提示信息
 
 ## 🤝 贡献者
 
@@ -156,7 +156,7 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
 
 我们相信，**开源的力量来自于每一个人的参与**！无论您是开发者、设计师还是用户，都可以为 Butterfly 主题的发展贡献力量。
 
-### 💬 获取帮助与支援
+### 💬 获取帮助与支持
 
 - 🐛 **发现问题？** → [GitHub Issues](https://github.com/jerryc127/hexo-theme-butterfly/issues) - 让我们一起解决！
 - 💡 **有好想法？** → [GitHub Discussions](https://github.com/jerryc127/hexo-theme-butterfly/discussions) - 分享您的创意想法！
@@ -171,7 +171,7 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
 - **📝 文档完善** - 改进文档、翻译内容、撰写教程
 - **🎨 设计建议** - UI/UX 改进、主题配色、图示设计
 - **🧪 测试反馈** - 测试新功能、回报问题、提供使用体验
-- **💰 资金支援** - [赞助项目](https://buy.stripe.com/3cs6rP6YA91sbbG5kk) - 支持长期发展
+- **💰 资金支持** - [赞助项目](https://buy.stripe.com/3cs6rP6YA91sbbG5kk) - 支持长期发展
 
 ## 📄 授权条款
 

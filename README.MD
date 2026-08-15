@@ -149,7 +149,7 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
 
 ## ⭐ Star 趋势
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jerryc127/hexo-theme-butterfly&type=Date)](https://star-history.com/#jerryc127/hexo-theme-butterfly&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=jerryc127/hexo-theme-butterfly&type=Date)](https://star-history.dera.page/#jerryc127/hexo-theme-butterfly&Date)
 
 ## 🤝 一起构建更美好的主题
 

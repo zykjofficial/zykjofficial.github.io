@@ -1,6 +1,6 @@
 🚀 此仓库为`Hexo`博客生成目录
 
-博客请访问请访问：[Vercel部署](https://zykj.js.org/)、[Cloudflare部署](https://zykj.pages.dev)、[Netlify部署](https://zykj.netlify.app)
+博客请访问：[Vercel部署](https://zykj.js.org/)、[Cloudflare部署](https://zykj.pages.dev)、[Netlify部署](https://zykj.netlify.app)
 
 <div align="center">
 
@@ -188,4 +188,3 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
 
 **✨ 如果这个主题对您有帮助，请给我们一个 ⭐ Star！✨**
 </div>
-

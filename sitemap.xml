@@ -879,13 +879,6 @@
   </url>
   
   <url>
-    <loc>https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/webpack/</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Jekyll/</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -893,7 +886,7 @@
   </url>
   
   <url>
-    <loc>https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Ajax/</loc>
+    <loc>https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/webpack/</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -901,6 +894,13 @@
   
   <url>
     <loc>https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/jQuery/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zykj.js.org/categories/Web%E6%95%99%E7%A8%8B/Ajax/</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -950,6 +950,13 @@
   
   <url>
     <loc>https://zykj.js.org/categories/Java/</loc>
+    <lastmod>2026-10-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zykj.js.org/categories/Java/Android/</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1006,13 +1013,6 @@
   
   <url>
     <loc>https://zykj.js.org/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2026-10-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zykj.js.org/categories/Java/Android/</loc>
     <lastmod>2026-10-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>

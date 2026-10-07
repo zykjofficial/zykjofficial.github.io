@@ -106,7 +106,7 @@ npm install hexo-renderer-pug hexo-renderer-stylus --save
 - [x] **访问统计** - 不蒜子计数器
 - [x] **网站分析** - Google Analytics/百度统计/Cloudflare Analytics/Microsoft Clarity/Umami
 - [x] **站长验证** - 各大搜索引擎验证
-- [x] **广告支持** - Google AdSense/自定广告位
+- [x] **广告支持** - Google AdSense/自定义广告位
 
 ### 🎪 视觉效果
 - [x] **打字特效** - activate_power_mode 动画

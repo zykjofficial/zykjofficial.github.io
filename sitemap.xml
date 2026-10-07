@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zykj.js.org/tags/</loc>
+    
+    <lastmod>2026-10-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zykj.js.org/link/</loc>
     
     <lastmod>2026-10-07</lastmod>
@@ -39,15 +48,6 @@
   
   <url>
     <loc>https://zykj.js.org/shuoshuo/</loc>
-    
-    <lastmod>2026-10-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zykj.js.org/tags/</loc>
     
     <lastmod>2026-10-07</lastmod>
     
@@ -998,14 +998,14 @@
   </url>
   
   <url>
-    <loc>https://zykj.js.org/categories/Java/Android/</loc>
+    <loc>https://zykj.js.org/categories/%E7%94%9F%E6%B4%BB/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://zykj.js.org/categories/%E7%94%9F%E6%B4%BB/</loc>
+    <loc>https://zykj.js.org/categories/Java/Android/</loc>
     <lastmod>2026-10-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
